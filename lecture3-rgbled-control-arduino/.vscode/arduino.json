@@ -1,0 +1,5 @@
+{
+    "board": "arduino:sam:arduino_due_x_dbg",
+    "sketch": "lecture3-rgbled-control-arduino.ino",
+    "port": "COM5"
+}
